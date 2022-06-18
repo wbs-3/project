@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-06-17T19:50:41.340232300Z</date>
+  <millis>1655495441340</millis>
+  <nanos>232300</nanos>
+  <sequence>0</sequence>
+  <logger>com.project.Main</logger>
+  <level>INFO</level>
+  <class>com.project.MyFormatter</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>DEFAULT FORMATTER</message>
+</record>
+Jun 17, 2022 2:50:41 PM com.project.MyFormatter main
+FINEST: SIMPLE FORMATTER

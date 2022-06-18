@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-06-17T16:52:00.412907700Z</date>
+  <millis>1655484720412</millis>
+  <nanos>907700</nanos>
+  <sequence>0</sequence>
+  <logger>com.project.Main</logger>
+  <level>INFO</level>
+  <class>com.project.MyFormatter</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finnest message: Logger with DEFAULT FORMATTER</message>
+</record>
+Jun 17, 2022 11:52:00 AM com.project.MyFormatter main
+FINEST: Finnest message: Logger with SIMPLE FORMATTER

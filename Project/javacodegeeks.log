@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-06-17T16:46:47.508974100Z</date>
+  <millis>1655484407508</millis>
+  <nanos>974100</nanos>
+  <sequence>0</sequence>
+  <logger>com.project.Main</logger>
+  <level>CONFIG</level>
+  <class>com.project.MyHandler</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Configuration done.</message>
+</record>
+<record>
+  <date>2022-06-17T16:46:47.540981100Z</date>
+  <millis>1655484407540</millis>
+  <nanos>981100</nanos>
+  <sequence>1</sequence>
+  <logger>com.project.Main</logger>
+  <level>FINE</level>
+  <class>com.project.MyHandler</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finer logged</message>
+</record>
+<record>
+  <date>2022-06-17T16:46:47.541981600Z</date>
+  <millis>1655484407541</millis>
+  <nanos>981600</nanos>
+  <sequence>2</sequence>
+  <logger>com.project.Main</logger>
+  <level>FINER</level>
+  <class>com.project.MyHandler</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finest example on LOGGER handler completed.</message>
+</record>
+</log>
